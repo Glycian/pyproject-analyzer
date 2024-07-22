@@ -66,4 +66,4 @@ Module: Invest.account.period
 -   Write analysis results to code_summary.txt
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
