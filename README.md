@@ -12,25 +12,25 @@ PyProject Analyzer is a tool designed to provide a summary of a Python project's
 
 To install PyProject Analyzer, clone this repository:
 
-``'bash
+```bash
 git clone https://github.com/your-username/pyproject-analyzer.git
 cd pyproject-analyzer
-'''
+```
 
 Usage
 You can use PyProject Analyzer by running the main script with the path to your Python project ZIP file:
 
-'''bash
+```bash
 Copy code
 python analyze_zip.py /path/to/your/project.zip
-'''
+```
 This will output a summary of the project structure and other relevant information to code_summary.txt.
 
 ## Example Output
 Here is an example output for a sample Python project:
 
-'''
-Copy code
+```
+Example Output
 Analysis Results:
 Modules and their contents:
 
@@ -49,7 +49,7 @@ Module: Invest.account.account_manager
 Module: Invest.account.period
   Classes: ['Period']
   Functions: ['__init__']
-  '''
+ ```
   
 ## Future Development
 Detailed Project Structure Overview: Provide a full directory and file structure overview.
