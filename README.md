@@ -61,7 +61,7 @@ Module: Invest.account.period
 
 ## Changelog
 - [1.0.0] - 2024-07-22
-   -Initial release with basic functionality:
+* Initial release with basic functionality:
  Extract ZIP files.
  Analyze Python files to gather module, class, and function information.
  Write analysis results to code_summary.txt.
