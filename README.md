@@ -60,11 +60,10 @@ Module: Invest.account.period
 
 
 ## Changelog
-- [1.0.0] - (2024-07-22):  Initial release with basic functionality:
+1 [1.0.0] - (2024-07-22):  Initial release with basic functionality:
 -   Extract ZIP files.
 -   Analyze Python files to gather module, class, and function information.
 -   Write analysis results to code_summary.txt.
 
- - 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
