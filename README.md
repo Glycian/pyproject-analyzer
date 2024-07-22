@@ -57,12 +57,7 @@ Module: Invest.account.period
 - Code Metrics: Calculate and display various code metrics such as lines of code, number of functions, and classes.
 - Contextual Information: Extract docstrings, comments, and other contextual information to give a better understanding of the project's components.
 - Visualization: Add graphical representations of the project structure and dependencies.
-- Integration: Allow integration with popular IDEs for real-time analysis.
-- Extended Language Support: Expand support to include other programming languages.
 
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Changelog
 - [1.0.0] - 2024-07-22
@@ -71,11 +66,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
  Analyze Python files to gather module, class, and function information.
  Write analysis results to code_summary.txt.
 
-## TODO
- - Detailed Project Structure Overview
- - Dependency Analysis
- - Code Metrics Calculation
- - Contextual Information Extraction
- - Visualization of Project Structure and Dependencies
- - IDE Integration
- - Extended Language Support
+ - 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
