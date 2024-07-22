@@ -12,7 +12,7 @@ PyProject Analyzer is a tool designed to provide a summary of a Python project's
 
 To install PyProject Analyzer, clone this repository:
 
-```bash
+``bash
 git clone https://github.com/your-username/pyproject-analyzer.git
 cd pyproject-analyzer
 Usage
