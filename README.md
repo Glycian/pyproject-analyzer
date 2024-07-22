@@ -8,7 +8,7 @@ PyProject Analyzer is a tool designed to provide a summary of a Python project's
 - **ZIP File Extraction**: Extracts the contents of a ZIP file to a specified directory.
 - **Result Output**: Writes the analysis results to a `code_summary.txt` file.
 
-## Installation
+## Installation and Usage
 
 To install PyProject Analyzer, clone this repository:
 
@@ -23,7 +23,7 @@ Copy code
 python analyze_zip.py /path/to/your/project.zip
 This will output a summary of the project structure and other relevant information to code_summary.txt.
 
-Example Output
+## Example Output
 Here is an example output for a sample Python project:
 
 less
@@ -46,7 +46,8 @@ Module: Invest.account.account_manager
 Module: Invest.account.period
   Classes: ['Period']
   Functions: ['__init__']
-Future Development
+  
+## Future Development
 Detailed Project Structure Overview: Provide a full directory and file structure overview.
 Dependency Analysis: List all dependencies and their versions used in the project.
 Code Metrics: Calculate and display various code metrics such as lines of code, number of functions, and classes.
@@ -57,19 +58,17 @@ Extended Language Support: Expand support to include other programming languages
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgements
-Special thanks to the contributors and the open-source community for their valuable inputs and support.
-
-Changelog
+## Changelog
 [1.0.0] - 2024-07-22
 Initial release with basic functionality:
 Extract ZIP files.
 Analyze Python files to gather module, class, and function information.
 Write analysis results to code_summary.txt.
-TODO
+
+## TODO
  Detailed Project Structure Overview
  Dependency Analysis
  Code Metrics Calculation
